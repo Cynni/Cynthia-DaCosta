@@ -1,0 +1,174 @@
+c:\users\jarno\documents\visual studio 2015\Projects\Yatzhee3\Yatzhee3\bin\Debug\Yatzhee3.exe.config
+c:\users\jarno\documents\visual studio 2015\Projects\Yatzhee3\Yatzhee3\bin\Debug\Yatzhee3.exe
+c:\users\jarno\documents\visual studio 2015\Projects\Yatzhee3\Yatzhee3\bin\Debug\Yatzhee3.pdb
+c:\users\jarno\documents\visual studio 2015\Projects\Yatzhee3\Yatzhee3\obj\Debug\Yatzhee3.csprojResolveAssemblyReference.cache
+c:\users\jarno\documents\visual studio 2015\Projects\Yatzhee3\Yatzhee3\obj\Debug\Yatzhee3.Properties.Resources.resources
+c:\users\jarno\documents\visual studio 2015\Projects\Yatzhee3\Yatzhee3\obj\Debug\Yatzhee3.TeerlingView.resources
+c:\users\jarno\documents\visual studio 2015\Projects\Yatzhee3\Yatzhee3\obj\Debug\Yatzhee3.csproj.GenerateResource.Cache
+c:\users\jarno\documents\visual studio 2015\Projects\Yatzhee3\Yatzhee3\obj\Debug\Yatzhee3.exe
+c:\users\jarno\documents\visual studio 2015\Projects\Yatzhee3\Yatzhee3\obj\Debug\Yatzhee3.pdb
+c:\users\jarno\documents\visual studio 2015\Projects\Yatzhee3\Yatzhee3\obj\Debug\Yatzhee3.Yahtzee.resources
+C:\Users\Jarno\Documents\Visual Studio 2015\Projects\Yatzhee3\Yatzhee3\obj\Debug\Yatzhee3.ScoreboardView.resources
+C:\Users\Jarno\Documents\GitHub\jarno-hermans\opdracht-03-versiebeheer\opdracht in team werken\Yatzhee3\Yatzhee3\bin\Debug\Yatzhee3.exe.config
+C:\Users\Jarno\Documents\GitHub\jarno-hermans\opdracht-03-versiebeheer\opdracht in team werken\Yatzhee3\Yatzhee3\obj\Debug\Yatzhee3.exe
+C:\Users\Jarno\Documents\GitHub\jarno-hermans\opdracht-03-versiebeheer\opdracht in team werken\Yatzhee3\Yatzhee3\obj\Debug\Yatzhee3.pdb
+C:\Users\Jarno\Documents\GitHub\jarno-hermans\opdracht-03-versiebeheer\opdracht in team werken\Yatzhee3\Yatzhee3\bin\Debug\Yatzhee3.exe
+C:\Users\Jarno\Documents\GitHub\jarno-hermans\opdracht-03-versiebeheer\opdracht in team werken\Yatzhee3\Yatzhee3\bin\Debug\Yatzhee3.pdb
+C:\Users\Jarno\Documents\GitHub\jarno-hermans\opdracht-03-versiebeheer\opdracht in team werken\Yatzhee3\Yatzhee3\obj\Debug\Yatzhee3.csprojResolveAssemblyReference.cache
+C:\Users\Jarno\Documents\GitHub\jarno-hermans\opdracht-03-versiebeheer\opdracht in team werken\Yatzhee3\Yatzhee3\obj\Debug\Yatzhee3.Properties.Resources.resources
+C:\Users\Jarno\Documents\GitHub\jarno-hermans\opdracht-03-versiebeheer\opdracht in team werken\Yatzhee3\Yatzhee3\obj\Debug\Yatzhee3.ScoreboardView.resources
+C:\Users\Jarno\Documents\GitHub\jarno-hermans\opdracht-03-versiebeheer\opdracht in team werken\Yatzhee3\Yatzhee3\obj\Debug\Yatzhee3.TeerlingView.resources
+C:\Users\Jarno\Documents\GitHub\jarno-hermans\opdracht-03-versiebeheer\opdracht in team werken\Yatzhee3\Yatzhee3\obj\Debug\Yatzhee3.Yahtzee.resources
+C:\Users\Jarno\Documents\GitHub\jarno-hermans\opdracht-03-versiebeheer\opdracht in team werken\Yatzhee3\Yatzhee3\obj\Debug\Yatzhee3.csproj.GenerateResource.Cache
+D:\users\Christophe\Documents\2deJaar\SoftwareEngineering\YahtzzeOpdracht\Yatzhee4\Yatzhee3\bin\Debug\Yatzhee3.exe.config
+D:\users\Christophe\Documents\2deJaar\SoftwareEngineering\YahtzzeOpdracht\Yatzhee4\Yatzhee3\obj\Debug\Yatzhee3.exe
+D:\users\Christophe\Documents\2deJaar\SoftwareEngineering\YahtzzeOpdracht\Yatzhee4\Yatzhee3\obj\Debug\Yatzhee3.pdb
+D:\users\Christophe\Documents\2deJaar\SoftwareEngineering\YahtzzeOpdracht\Yatzhee4\Yatzhee3\bin\Debug\Yatzhee3.exe
+D:\users\Christophe\Documents\2deJaar\SoftwareEngineering\YahtzzeOpdracht\Yatzhee4\Yatzhee3\bin\Debug\Yatzhee3.pdb
+D:\users\Christophe\Documents\2deJaar\SoftwareEngineering\YahtzzeOpdracht\Yatzhee4\Yatzhee3\obj\Debug\Yatzhee3.csprojResolveAssemblyReference.cache
+D:\users\Christophe\Documents\2deJaar\SoftwareEngineering\YahtzzeOpdracht\Yatzhee4\Yatzhee3\obj\Debug\Yatzhee3.Properties.Resources.resources
+D:\users\Christophe\Documents\2deJaar\SoftwareEngineering\YahtzzeOpdracht\Yatzhee4\Yatzhee3\obj\Debug\Yatzhee3.ScoreboardView.resources
+D:\users\Christophe\Documents\2deJaar\SoftwareEngineering\YahtzzeOpdracht\Yatzhee4\Yatzhee3\obj\Debug\Yatzhee3.TeerlingView.resources
+D:\users\Christophe\Documents\2deJaar\SoftwareEngineering\YahtzzeOpdracht\Yatzhee4\Yatzhee3\obj\Debug\Yatzhee3.Yahtzee.resources
+D:\users\Christophe\Documents\2deJaar\SoftwareEngineering\YahtzzeOpdracht\Yatzhee4\Yatzhee3\obj\Debug\Yatzhee3.csproj.GenerateResource.Cache
+C:\temp\Yahtzee4\Yatzhee3\bin\Debug\Yatzhee3.exe.config
+C:\temp\Yahtzee4\Yatzhee3\obj\Debug\Yatzhee3.exe
+C:\temp\Yahtzee4\Yatzhee3\obj\Debug\Yatzhee3.pdb
+C:\temp\Yahtzee4\Yatzhee3\bin\Debug\Yatzhee3.exe
+C:\temp\Yahtzee4\Yatzhee3\bin\Debug\Yatzhee3.pdb
+C:\temp\Yahtzee4\Yatzhee3\obj\Debug\Yatzhee3.csprojResolveAssemblyReference.cache
+C:\temp\Yahtzee4\Yatzhee3\obj\Debug\Yatzhee3.Properties.Resources.resources
+C:\temp\Yahtzee4\Yatzhee3\obj\Debug\Yatzhee3.ScoreboardView.resources
+C:\temp\Yahtzee4\Yatzhee3\obj\Debug\Yatzhee3.TeerlingView.resources
+C:\temp\Yahtzee4\Yatzhee3\obj\Debug\Yatzhee3.Yahtzee.resources
+C:\temp\Yahtzee4\Yatzhee3\obj\Debug\Yatzhee3.csproj.GenerateResource.Cache
+D:\users\Christophe\Documents\2deJaar\SoftwareEngineering\YahtzzeOpdracht\Yahtzee5\Yatzhee3\bin\Debug\Yatzhee3.exe.config
+D:\users\Christophe\Documents\2deJaar\SoftwareEngineering\YahtzzeOpdracht\Yahtzee5\Yatzhee3\obj\Debug\Yatzhee3.exe
+D:\users\Christophe\Documents\2deJaar\SoftwareEngineering\YahtzzeOpdracht\Yahtzee5\Yatzhee3\obj\Debug\Yatzhee3.pdb
+D:\users\Christophe\Documents\2deJaar\SoftwareEngineering\YahtzzeOpdracht\Yahtzee5\Yatzhee3\obj\Debug\Yatzhee3.csprojResolveAssemblyReference.cache
+D:\users\Christophe\Documents\2deJaar\SoftwareEngineering\YahtzzeOpdracht\Yahtzee5\Yatzhee3\obj\Debug\Yatzhee3.Properties.Resources.resources
+D:\users\Christophe\Documents\2deJaar\SoftwareEngineering\YahtzzeOpdracht\Yahtzee5\Yatzhee3\obj\Debug\Yatzhee3.ScoreboardView.resources
+D:\users\Christophe\Documents\2deJaar\SoftwareEngineering\YahtzzeOpdracht\Yahtzee5\Yatzhee3\obj\Debug\Yatzhee3.TeerlingView.resources
+D:\users\Christophe\Documents\2deJaar\SoftwareEngineering\YahtzzeOpdracht\Yahtzee5\Yatzhee3\obj\Debug\Yatzhee3.Yahtzee.resources
+D:\users\Christophe\Documents\2deJaar\SoftwareEngineering\YahtzzeOpdracht\Yahtzee5\Yatzhee3\obj\Debug\Yatzhee3.csproj.GenerateResource.Cache
+D:\users\Christophe\Documents\2deJaar\SoftwareEngineering\YahtzzeOpdracht\Yahtzee5\Yatzhee3\bin\Debug\Yatzhee3.exe
+D:\users\Christophe\Documents\2deJaar\SoftwareEngineering\YahtzzeOpdracht\Yahtzee5\Yatzhee3\bin\Debug\Yatzhee3.pdb
+C:\Users\Jarno\Downloads\yahtzee3\Yahtzee3\Yatzhee3\bin\Debug\Yatzhee3.exe.config
+C:\Users\Jarno\Downloads\yahtzee3\Yahtzee3\Yatzhee3\obj\Debug\Yatzhee3.exe
+C:\Users\Jarno\Downloads\yahtzee3\Yahtzee3\Yatzhee3\obj\Debug\Yatzhee3.pdb
+C:\Users\Jarno\Downloads\yahtzee3\Yahtzee3\Yatzhee3\bin\Debug\Yatzhee3.exe
+C:\Users\Jarno\Downloads\yahtzee3\Yahtzee3\Yatzhee3\bin\Debug\Yatzhee3.pdb
+C:\Users\Jarno\Downloads\yahtzee3\Yahtzee3\Yatzhee3\obj\Debug\Yatzhee3.csprojResolveAssemblyReference.cache
+C:\Users\Jarno\Downloads\yahtzee3\Yahtzee3\Yatzhee3\obj\Debug\Yatzhee3.Properties.Resources.resources
+C:\Users\Jarno\Downloads\yahtzee3\Yahtzee3\Yatzhee3\obj\Debug\Yatzhee3.ScoreboardView.resources
+C:\Users\Jarno\Downloads\yahtzee3\Yahtzee3\Yatzhee3\obj\Debug\Yatzhee3.TeerlingView.resources
+C:\Users\Jarno\Downloads\yahtzee3\Yahtzee3\Yatzhee3\obj\Debug\Yatzhee3.Yahtzee.resources
+C:\Users\Jarno\Downloads\yahtzee3\Yahtzee3\Yatzhee3\obj\Debug\Yatzhee3.csproj.GenerateResource.Cache
+C:\Users\Jarno\Downloads\yahtzee3\Yahtzee3\Yatzhee3\obj\Debug\Yatzhee3.ScoreboardView2.resources
+C:\Users\Jarno\Downloads\yahtzee3\Yahtzee3\Yatzhee3\obj\Debug\Yatzhee3.PlayerView.resources
+C:\Users\Jarno\Downloads\yahtzee3 - Copy\Yahtzee3\Yatzhee3\bin\Debug\Yatzhee3.exe.config
+C:\Users\Jarno\Downloads\yahtzee3 - Copy\Yahtzee3\Yatzhee3\obj\Debug\Yatzhee3.exe
+C:\Users\Jarno\Downloads\yahtzee3 - Copy\Yahtzee3\Yatzhee3\obj\Debug\Yatzhee3.pdb
+C:\Users\Jarno\Downloads\yahtzee3 - Copy\Yahtzee3\Yatzhee3\bin\Debug\Yatzhee3.exe
+C:\Users\Jarno\Downloads\yahtzee3 - Copy\Yahtzee3\Yatzhee3\bin\Debug\Yatzhee3.pdb
+C:\Users\Jarno\Downloads\yahtzee3 - Copy\Yahtzee3\Yatzhee3\obj\Debug\Yatzhee3.csprojResolveAssemblyReference.cache
+C:\Users\Jarno\Downloads\yahtzee3 - Copy\Yahtzee3\Yatzhee3\obj\Debug\Yatzhee3.PlayerView.resources
+C:\Users\Jarno\Downloads\yahtzee3 - Copy\Yahtzee3\Yatzhee3\obj\Debug\Yatzhee3.Properties.Resources.resources
+C:\Users\Jarno\Downloads\yahtzee3 - Copy\Yahtzee3\Yatzhee3\obj\Debug\Yatzhee3.ScoreboardView.resources
+C:\Users\Jarno\Downloads\yahtzee3 - Copy\Yahtzee3\Yatzhee3\obj\Debug\Yatzhee3.TeerlingView.resources
+C:\Users\Jarno\Downloads\yahtzee3 - Copy\Yahtzee3\Yatzhee3\obj\Debug\Yatzhee3.Yahtzee.resources
+C:\Users\Jarno\Downloads\yahtzee3 - Copy\Yahtzee3\Yatzhee3\obj\Debug\Yatzhee3.csproj.GenerateResource.Cache
+C:\Users\Jarno\Documents\GitHub\jarno-hermans\opdracht-03-versiebeheer\opdracht in team werken\Yahtzee3\Yatzhee3\bin\Debug\Yatzhee3.exe.config
+C:\Users\Jarno\Documents\GitHub\jarno-hermans\opdracht-03-versiebeheer\opdracht in team werken\Yahtzee3\Yatzhee3\obj\Debug\Yatzhee3.exe
+C:\Users\Jarno\Documents\GitHub\jarno-hermans\opdracht-03-versiebeheer\opdracht in team werken\Yahtzee3\Yatzhee3\obj\Debug\Yatzhee3.pdb
+C:\Users\Jarno\Documents\GitHub\jarno-hermans\opdracht-03-versiebeheer\opdracht in team werken\Yahtzee3\Yatzhee3\bin\Debug\Yatzhee3.exe
+C:\Users\Jarno\Documents\GitHub\jarno-hermans\opdracht-03-versiebeheer\opdracht in team werken\Yahtzee3\Yatzhee3\bin\Debug\Yatzhee3.pdb
+C:\Users\Jarno\Documents\GitHub\jarno-hermans\opdracht-03-versiebeheer\opdracht in team werken\Yahtzee3\Yatzhee3\obj\Debug\Yatzhee3.csprojResolveAssemblyReference.cache
+C:\Users\Jarno\Documents\GitHub\jarno-hermans\opdracht-03-versiebeheer\opdracht in team werken\Yahtzee3\Yatzhee3\obj\Debug\Yatzhee3.PlayerView.resources
+C:\Users\Jarno\Documents\GitHub\jarno-hermans\opdracht-03-versiebeheer\opdracht in team werken\Yahtzee3\Yatzhee3\obj\Debug\Yatzhee3.Properties.Resources.resources
+C:\Users\Jarno\Documents\GitHub\jarno-hermans\opdracht-03-versiebeheer\opdracht in team werken\Yahtzee3\Yatzhee3\obj\Debug\Yatzhee3.ScoreboardView.resources
+C:\Users\Jarno\Documents\GitHub\jarno-hermans\opdracht-03-versiebeheer\opdracht in team werken\Yahtzee3\Yatzhee3\obj\Debug\Yatzhee3.TeerlingView.resources
+C:\Users\Jarno\Documents\GitHub\jarno-hermans\opdracht-03-versiebeheer\opdracht in team werken\Yahtzee3\Yatzhee3\obj\Debug\Yatzhee3.Yahtzee.resources
+C:\Users\Jarno\Documents\GitHub\jarno-hermans\opdracht-03-versiebeheer\opdracht in team werken\Yahtzee3\Yatzhee3\obj\Debug\Yatzhee3.csproj.GenerateResource.Cache
+C:\Users\Jarno\Documents\GitHub\jarno-hermans\opdracht-03-versiebeheer\opdracht in team werken\Yahtzee3\Yatzhee3\obj\Debug\Yatzhee3.CheatsView.resources
+D:\Documenten\KdG\Software Engineering\jarno\Yahtzee3\Yatzhee3\bin\Debug\Yatzhee3.exe.config
+D:\Documenten\KdG\Software Engineering\jarno\Yahtzee3\Yatzhee3\obj\Debug\Yatzhee3.exe
+D:\Documenten\KdG\Software Engineering\jarno\Yahtzee3\Yatzhee3\obj\Debug\Yatzhee3.pdb
+D:\Documenten\KdG\Software Engineering\jarno\Yahtzee3\Yatzhee3\bin\Debug\Yatzhee3.exe
+D:\Documenten\KdG\Software Engineering\jarno\Yahtzee3\Yatzhee3\bin\Debug\Yatzhee3.pdb
+D:\Documenten\KdG\Software Engineering\jarno\Yahtzee3\Yatzhee3\obj\Debug\Yatzhee3.csprojResolveAssemblyReference.cache
+D:\Documenten\KdG\Software Engineering\jarno\Yahtzee3\Yatzhee3\obj\Debug\Yatzhee3.CheatsView.resources
+D:\Documenten\KdG\Software Engineering\jarno\Yahtzee3\Yatzhee3\obj\Debug\Yatzhee3.PlayerView.resources
+D:\Documenten\KdG\Software Engineering\jarno\Yahtzee3\Yatzhee3\obj\Debug\Yatzhee3.Properties.Resources.resources
+D:\Documenten\KdG\Software Engineering\jarno\Yahtzee3\Yatzhee3\obj\Debug\Yatzhee3.ScoreboardView.resources
+D:\Documenten\KdG\Software Engineering\jarno\Yahtzee3\Yatzhee3\obj\Debug\Yatzhee3.TeerlingView.resources
+D:\Documenten\KdG\Software Engineering\jarno\Yahtzee3\Yatzhee3\obj\Debug\Yatzhee3.Yahtzee.resources
+D:\Documenten\KdG\Software Engineering\jarno\Yahtzee3\Yatzhee3\obj\Debug\Yatzhee3.csproj.GenerateResource.Cache
+F:\AllesLaptop\Documenten\KdG\Software Engineering\jarno\Yahtzee3\Yatzhee3\bin\Debug\Yatzhee3.exe.config
+F:\AllesLaptop\Documenten\KdG\Software Engineering\jarno\Yahtzee3\Yatzhee3\bin\Debug\Yatzhee3.exe
+F:\AllesLaptop\Documenten\KdG\Software Engineering\jarno\Yahtzee3\Yatzhee3\bin\Debug\Yatzhee3.pdb
+F:\AllesLaptop\Documenten\KdG\Software Engineering\jarno\Yahtzee3\Yatzhee3\obj\Debug\Yatzhee3.csprojResolveAssemblyReference.cache
+F:\AllesLaptop\Documenten\KdG\Software Engineering\jarno\Yahtzee3\Yatzhee3\obj\Debug\Yatzhee3.CheatsView.resources
+F:\AllesLaptop\Documenten\KdG\Software Engineering\jarno\Yahtzee3\Yatzhee3\obj\Debug\Yatzhee3.PlayerView.resources
+F:\AllesLaptop\Documenten\KdG\Software Engineering\jarno\Yahtzee3\Yatzhee3\obj\Debug\Yatzhee3.Properties.Resources.resources
+F:\AllesLaptop\Documenten\KdG\Software Engineering\jarno\Yahtzee3\Yatzhee3\obj\Debug\Yatzhee3.ScoreboardView.resources
+F:\AllesLaptop\Documenten\KdG\Software Engineering\jarno\Yahtzee3\Yatzhee3\obj\Debug\Yatzhee3.TeerlingView.resources
+F:\AllesLaptop\Documenten\KdG\Software Engineering\jarno\Yahtzee3\Yatzhee3\obj\Debug\Yatzhee3.Yahtzee.resources
+F:\AllesLaptop\Documenten\KdG\Software Engineering\jarno\Yahtzee3\Yatzhee3\obj\Debug\Yatzhee3.csproj.GenerateResource.Cache
+F:\AllesLaptop\Documenten\KdG\Software Engineering\jarno\Yahtzee3\Yatzhee3\obj\Debug\Yatzhee3.exe
+F:\AllesLaptop\Documenten\KdG\Software Engineering\jarno\Yahtzee3\Yatzhee3\obj\Debug\Yatzhee3.pdb
+D:\Documenten\Yahtzee3\Yatzhee3\bin\Debug\Yatzhee3.exe.config
+D:\Documenten\Yahtzee3\Yatzhee3\obj\Debug\Yatzhee3.exe
+D:\Documenten\Yahtzee3\Yatzhee3\obj\Debug\Yatzhee3.pdb
+D:\Documenten\Yahtzee3\Yatzhee3\bin\Debug\Yatzhee3.exe
+D:\Documenten\Yahtzee3\Yatzhee3\bin\Debug\Yatzhee3.pdb
+D:\Documenten\Yahtzee3\Yatzhee3\obj\Debug\Yatzhee3.csprojResolveAssemblyReference.cache
+D:\Documenten\Yahtzee3\Yatzhee3\obj\Debug\Yatzhee3.CheatsView.resources
+D:\Documenten\Yahtzee3\Yatzhee3\obj\Debug\Yatzhee3.PlayerView.resources
+D:\Documenten\Yahtzee3\Yatzhee3\obj\Debug\Yatzhee3.Properties.Resources.resources
+D:\Documenten\Yahtzee3\Yatzhee3\obj\Debug\Yatzhee3.ScoreboardView.resources
+D:\Documenten\Yahtzee3\Yatzhee3\obj\Debug\Yatzhee3.TeerlingView.resources
+D:\Documenten\Yahtzee3\Yatzhee3\obj\Debug\Yatzhee3.Yahtzee.resources
+D:\Documenten\Yahtzee3\Yatzhee3\obj\Debug\Yatzhee3.csproj.GenerateResource.Cache
+D:\Documenten\KdG\Software Engineering\yahtzee30102015\Yahtzee3\Yatzhee3\bin\Debug\Yatzhee3.exe.config
+D:\Documenten\KdG\Software Engineering\yahtzee30102015\Yahtzee3\Yatzhee3\obj\Debug\Yatzhee3.exe
+D:\Documenten\KdG\Software Engineering\yahtzee30102015\Yahtzee3\Yatzhee3\obj\Debug\Yatzhee3.pdb
+D:\Documenten\KdG\Software Engineering\yahtzee30102015\Yahtzee3\Yatzhee3\bin\Debug\Yatzhee3.exe
+D:\Documenten\KdG\Software Engineering\yahtzee30102015\Yahtzee3\Yatzhee3\bin\Debug\Yatzhee3.pdb
+D:\Documenten\KdG\Software Engineering\yahtzee30102015\Yahtzee3\Yatzhee3\obj\Debug\Yatzhee3.csprojResolveAssemblyReference.cache
+D:\Documenten\KdG\Software Engineering\yahtzee30102015\Yahtzee3\Yatzhee3\obj\Debug\Yatzhee3.CheatsView.resources
+D:\Documenten\KdG\Software Engineering\yahtzee30102015\Yahtzee3\Yatzhee3\obj\Debug\Yatzhee3.PlayerView.resources
+D:\Documenten\KdG\Software Engineering\yahtzee30102015\Yahtzee3\Yatzhee3\obj\Debug\Yatzhee3.Properties.Resources.resources
+D:\Documenten\KdG\Software Engineering\yahtzee30102015\Yahtzee3\Yatzhee3\obj\Debug\Yatzhee3.ScoreboardView.resources
+D:\Documenten\KdG\Software Engineering\yahtzee30102015\Yahtzee3\Yatzhee3\obj\Debug\Yatzhee3.TeerlingView.resources
+D:\Documenten\KdG\Software Engineering\yahtzee30102015\Yahtzee3\Yatzhee3\obj\Debug\Yatzhee3.Yahtzee.resources
+D:\Documenten\KdG\Software Engineering\yahtzee30102015\Yahtzee3\Yatzhee3\obj\Debug\Yatzhee3.csproj.GenerateResource.Cache
+C:\Users\Jarno\Downloads\yahtzee30102015\yahtzee30102015\Yahtzee3\Yatzhee3\bin\Debug\Yatzhee3.exe.config
+C:\Users\Jarno\Downloads\yahtzee30102015\yahtzee30102015\Yahtzee3\Yatzhee3\obj\Debug\Yatzhee3.exe
+C:\Users\Jarno\Downloads\yahtzee30102015\yahtzee30102015\Yahtzee3\Yatzhee3\obj\Debug\Yatzhee3.pdb
+C:\Users\Jarno\Downloads\yahtzee30102015\yahtzee30102015\Yahtzee3\Yatzhee3\bin\Debug\Yatzhee3.exe
+C:\Users\Jarno\Downloads\yahtzee30102015\yahtzee30102015\Yahtzee3\Yatzhee3\bin\Debug\Yatzhee3.pdb
+C:\Users\Jarno\Downloads\yahtzee30102015\yahtzee30102015\Yahtzee3\Yatzhee3\obj\Debug\Yatzhee3.csprojResolveAssemblyReference.cache
+C:\Users\Jarno\Downloads\yahtzee30102015\yahtzee30102015\Yahtzee3\Yatzhee3\obj\Debug\Yatzhee3.CheatsView.resources
+C:\Users\Jarno\Downloads\yahtzee30102015\yahtzee30102015\Yahtzee3\Yatzhee3\obj\Debug\Yatzhee3.PlayerView.resources
+C:\Users\Jarno\Downloads\yahtzee30102015\yahtzee30102015\Yahtzee3\Yatzhee3\obj\Debug\Yatzhee3.Properties.Resources.resources
+C:\Users\Jarno\Downloads\yahtzee30102015\yahtzee30102015\Yahtzee3\Yatzhee3\obj\Debug\Yatzhee3.ScoreboardView.resources
+C:\Users\Jarno\Downloads\yahtzee30102015\yahtzee30102015\Yahtzee3\Yatzhee3\obj\Debug\Yatzhee3.TeerlingView.resources
+C:\Users\Jarno\Downloads\yahtzee30102015\yahtzee30102015\Yahtzee3\Yatzhee3\obj\Debug\Yatzhee3.Yahtzee.resources
+C:\Users\Jarno\Downloads\yahtzee30102015\yahtzee30102015\Yahtzee3\Yatzhee3\obj\Debug\Yatzhee3.csproj.GenerateResource.Cache
+C:\Users\Cynthia\Desktop\Yahtzee3\Yatzhee3\bin\Debug\Yatzhee3.exe.config
+C:\Users\Cynthia\Desktop\Yahtzee3\Yatzhee3\obj\Debug\Yatzhee3.exe
+C:\Users\Cynthia\Desktop\Yahtzee3\Yatzhee3\obj\Debug\Yatzhee3.pdb
+D:\Documenten\KdG\Software Engineering\opdracht-03-versiebeheer\Yahtzee3\Yatzhee3\bin\Debug\Yatzhee3.exe.config
+D:\Documenten\KdG\Software Engineering\opdracht-03-versiebeheer\Yahtzee3\Yatzhee3\obj\Debug\Yatzhee3.exe
+D:\Documenten\KdG\Software Engineering\opdracht-03-versiebeheer\Yahtzee3\Yatzhee3\obj\Debug\Yatzhee3.pdb
+D:\Documenten\KdG\Software Engineering\opdracht-03-versiebeheer\Yahtzee3\Yatzhee3\bin\Debug\Yatzhee3.exe
+D:\Documenten\KdG\Software Engineering\opdracht-03-versiebeheer\Yahtzee3\Yatzhee3\bin\Debug\Yatzhee3.pdb
+D:\Documenten\KdG\Software Engineering\opdracht-03-versiebeheer\Yahtzee3\Yatzhee3\obj\Debug\Yatzhee3.csprojResolveAssemblyReference.cache
+D:\Documenten\KdG\Software Engineering\opdracht-03-versiebeheer\Yahtzee3\Yatzhee3\obj\Debug\Yatzhee3.CheatsView.resources
+D:\Documenten\KdG\Software Engineering\opdracht-03-versiebeheer\Yahtzee3\Yatzhee3\obj\Debug\Yatzhee3.PlayerView.resources
+D:\Documenten\KdG\Software Engineering\opdracht-03-versiebeheer\Yahtzee3\Yatzhee3\obj\Debug\Yatzhee3.Properties.Resources.resources
+D:\Documenten\KdG\Software Engineering\opdracht-03-versiebeheer\Yahtzee3\Yatzhee3\obj\Debug\Yatzhee3.ScoreboardView.resources
+D:\Documenten\KdG\Software Engineering\opdracht-03-versiebeheer\Yahtzee3\Yatzhee3\obj\Debug\Yatzhee3.TeerlingView.resources
+D:\Documenten\KdG\Software Engineering\opdracht-03-versiebeheer\Yahtzee3\Yatzhee3\obj\Debug\Yatzhee3.Yahtzee.resources
+D:\Documenten\KdG\Software Engineering\opdracht-03-versiebeheer\Yahtzee3\Yatzhee3\obj\Debug\Yatzhee3.csproj.GenerateResource.Cache

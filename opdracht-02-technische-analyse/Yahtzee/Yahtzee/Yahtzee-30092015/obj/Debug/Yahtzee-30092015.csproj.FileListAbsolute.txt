@@ -1,0 +1,30 @@
+D:\Documenten\KdG\Programmeren2\HerhalingsOef.Les1\Yahtzee-30092015\Yahtzee-30092015\bin\Debug\Yahtzee-30092015.exe.config
+D:\Documenten\KdG\Programmeren2\HerhalingsOef.Les1\Yahtzee-30092015\Yahtzee-30092015\bin\Debug\Yahtzee-30092015.exe
+D:\Documenten\KdG\Programmeren2\HerhalingsOef.Les1\Yahtzee-30092015\Yahtzee-30092015\bin\Debug\Yahtzee-30092015.pdb
+D:\Documenten\KdG\Programmeren2\HerhalingsOef.Les1\Yahtzee-30092015\Yahtzee-30092015\obj\Debug\Yahtzee-30092015.csprojResolveAssemblyReference.cache
+D:\Documenten\KdG\Programmeren2\HerhalingsOef.Les1\Yahtzee-30092015\Yahtzee-30092015\obj\Debug\Yahtzee_30092015.FrmYahtzee.resources
+D:\Documenten\KdG\Programmeren2\HerhalingsOef.Les1\Yahtzee-30092015\Yahtzee-30092015\obj\Debug\Yahtzee_30092015.Properties.Resources.resources
+D:\Documenten\KdG\Programmeren2\HerhalingsOef.Les1\Yahtzee-30092015\Yahtzee-30092015\obj\Debug\Yahtzee_30092015.TeerlingView.resources
+D:\Documenten\KdG\Programmeren2\HerhalingsOef.Les1\Yahtzee-30092015\Yahtzee-30092015\obj\Debug\Yahtzee-30092015.csproj.GenerateResource.Cache
+D:\Documenten\KdG\Programmeren2\HerhalingsOef.Les1\Yahtzee-30092015\Yahtzee-30092015\obj\Debug\Yahtzee-30092015.exe
+D:\Documenten\KdG\Programmeren2\HerhalingsOef.Les1\Yahtzee-30092015\Yahtzee-30092015\obj\Debug\Yahtzee-30092015.pdb
+D:\Documenten\KdG\Software Engineering\Oefeningen\Yahtzee\Yahtzee-30092015\Yahtzee-30092015\bin\Debug\Yahtzee-30092015.exe.config
+D:\Documenten\KdG\Software Engineering\Oefeningen\Yahtzee\Yahtzee-30092015\Yahtzee-30092015\obj\Debug\Yahtzee-30092015.exe
+D:\Documenten\KdG\Software Engineering\Oefeningen\Yahtzee\Yahtzee-30092015\Yahtzee-30092015\obj\Debug\Yahtzee-30092015.pdb
+D:\Documenten\KdG\Software Engineering\Oefeningen\Yahtzee\Yahtzee-30092015\Yahtzee-30092015\bin\Debug\Yahtzee-30092015.exe
+D:\Documenten\KdG\Software Engineering\Oefeningen\Yahtzee\Yahtzee-30092015\Yahtzee-30092015\bin\Debug\Yahtzee-30092015.pdb
+D:\Documenten\KdG\Software Engineering\Oefeningen\Yahtzee\Yahtzee-30092015\Yahtzee-30092015\obj\Debug\Yahtzee_30092015.FrmYahtzee.resources
+D:\Documenten\KdG\Software Engineering\Oefeningen\Yahtzee\Yahtzee-30092015\Yahtzee-30092015\obj\Debug\Yahtzee_30092015.Properties.Resources.resources
+D:\Documenten\KdG\Software Engineering\Oefeningen\Yahtzee\Yahtzee-30092015\Yahtzee-30092015\obj\Debug\Yahtzee_30092015.TeerlingView.resources
+D:\Documenten\KdG\Software Engineering\Oefeningen\Yahtzee\Yahtzee-30092015\Yahtzee-30092015\obj\Debug\Yahtzee-30092015.csproj.GenerateResource.Cache
+D:\Documenten\KdG\Software Engineering\Oefeningen\Yahtzee\Yahtzee-30092015\Yahtzee-30092015\obj\Debug\Yahtzee-30092015.csprojResolveAssemblyReference.cache
+D:\Documenten\KdG\Software Engineering\Cynthia-DaCosta\opdracht-02-technische-analyse\Yahtzee\Yahtzee\Yahtzee-30092015\bin\Debug\Yahtzee-30092015.exe.config
+D:\Documenten\KdG\Software Engineering\Cynthia-DaCosta\opdracht-02-technische-analyse\Yahtzee\Yahtzee\Yahtzee-30092015\obj\Debug\Yahtzee-30092015.exe
+D:\Documenten\KdG\Software Engineering\Cynthia-DaCosta\opdracht-02-technische-analyse\Yahtzee\Yahtzee\Yahtzee-30092015\obj\Debug\Yahtzee-30092015.pdb
+D:\Documenten\KdG\Software Engineering\Cynthia-DaCosta\opdracht-02-technische-analyse\Yahtzee\Yahtzee\Yahtzee-30092015\bin\Debug\Yahtzee-30092015.exe
+D:\Documenten\KdG\Software Engineering\Cynthia-DaCosta\opdracht-02-technische-analyse\Yahtzee\Yahtzee\Yahtzee-30092015\bin\Debug\Yahtzee-30092015.pdb
+D:\Documenten\KdG\Software Engineering\Cynthia-DaCosta\opdracht-02-technische-analyse\Yahtzee\Yahtzee\Yahtzee-30092015\obj\Debug\Yahtzee-30092015.csprojResolveAssemblyReference.cache
+D:\Documenten\KdG\Software Engineering\Cynthia-DaCosta\opdracht-02-technische-analyse\Yahtzee\Yahtzee\Yahtzee-30092015\obj\Debug\Yahtzee_30092015.FrmYahtzee.resources
+D:\Documenten\KdG\Software Engineering\Cynthia-DaCosta\opdracht-02-technische-analyse\Yahtzee\Yahtzee\Yahtzee-30092015\obj\Debug\Yahtzee_30092015.Properties.Resources.resources
+D:\Documenten\KdG\Software Engineering\Cynthia-DaCosta\opdracht-02-technische-analyse\Yahtzee\Yahtzee\Yahtzee-30092015\obj\Debug\Yahtzee_30092015.TeerlingView.resources
+D:\Documenten\KdG\Software Engineering\Cynthia-DaCosta\opdracht-02-technische-analyse\Yahtzee\Yahtzee\Yahtzee-30092015\obj\Debug\Yahtzee-30092015.csproj.GenerateResource.Cache
